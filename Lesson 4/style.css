@@ -186,8 +186,7 @@
 
 ul  {
     margin: 0 auto;
-    padding: 0; 
-    
+    padding: 0;    
 }
 
 li {
@@ -214,6 +213,7 @@ li {
     font-size: 90px;
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
+    padding: 0;
 }
 
 .price__italic {
@@ -227,7 +227,7 @@ li {
 }
 
 span {
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .list__desc {
